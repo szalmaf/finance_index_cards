@@ -1,1 +1,5 @@
-# finance_index_cards
+# Stochastic calculus
+
+## L1
+• Probability space
+$\Omega$ Sample space
